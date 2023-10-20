@@ -148,6 +148,10 @@ header a {
   text-align: center;
 }
 
+  section.hero > .call-to-action{
+font-size: 1.05em;
+}
+
 main > section, main > article {
   margin-bottom: 0;
   padding: 10px 0 0 10px;
